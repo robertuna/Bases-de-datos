@@ -1,0 +1,4 @@
+Me toco desarrollar el caso de la productora de peliculas se me hizo complejo
+la creacion de los disparadores porque no entendi como se hacian en codigo y 
+tambien la parde de los atributos multievaluados y se me hizo muy facil la 
+creacion de las tablas y enlazarlas entre si.
